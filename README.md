@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @mohamedbougarn
-- 👀 I’m interested in SI DEVLOPPENT
-- 🌱 I’m currently learning angular 
-- 💞️ I’m looking to collaborate on IA
-- 📫 How to reach me ...
-
 <!---
 mohamedbougarn/mohamedbougarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -11,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I’m mohamed aymen BOUGARN, a self-motivated tech enthusiast and full stack web developer.
+I’m mohamed aymen BOUGARN, a self-motivated tech enthusiast and computer engineering.
 </p>
 
 <h4 align="center">
@@ -20,17 +14,8 @@ I’m mohamed aymen BOUGARN, a self-motivated tech enthusiast and full stack web
 <p  align="center">
 <!--<a href="https://akasrai.github.io/">https://akasrai.github.io</a>-->
 </p>
-
 <br/>
 <h3 align="center">
-
- <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <p align="center">
@@ -55,6 +40,6 @@ I’m mohamed aymen BOUGARN, a self-motivated tech enthusiast and full stack web
   
 </h3>
 
-<h3 align="center">
+<!--<h3 align="center">
 <img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
-</h3>
+</h3>-->

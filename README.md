@@ -19,20 +19,18 @@ I’m mohamed aymen BOUGARN, a self-motivated tech enthusiast and computer engin
 <br>
 <br>
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media0.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="100"><img src="https://media.giphy.com/media/TLaDluUpSbCKsSskMm/giphy.gif" width="100"><br><br>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media0.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="100"><img src="https://media.giphy.com/media/TLaDluUpSbCKsSskMm/giphy.gif"><br><br>
   <br>
 </p>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 <p align="center">
-<a href="https://twitter.com/AymenBOUGARN" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/mohamed-aymen-bougarn-567480165/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
-<a href="https://www.instagram.com/aymen_bougarn9/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
- <!--https://dev.to/dephraiim--> <a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://twitter.com/AymenBOUGARN"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/mohamed-aymen-bougarn-567480165/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="50" width="50" /></a>
+<a href="https://www.instagram.com/aymen_bougarn9/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="50" width="50" /></a>
+ <!--https://dev.to/dephraiim--> 
+ <a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dephraiim" height="20" width="20" /></a>
 </p>
 <br>
@@ -40,6 +38,6 @@ I’m mohamed aymen BOUGARN, a self-motivated tech enthusiast and computer engin
   
 </h3>
 
-<!--<h3 align="center">
+<h3 align="center">
 <img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
-</h3>-->
+</h3>

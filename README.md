@@ -39,7 +39,7 @@ I’m mohamed aymen BOUGARN, a self-motivated tech enthusiast and computer engin
   
   
 </h3>
-
+<!--
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
-</h3>
+</h3>-->

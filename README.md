@@ -25,14 +25,16 @@ I’m mohamed aymen BOUGARN, a self-motivated tech enthusiast and computer engin
 <br>
 <br>
 <br>
-<p align="center"  style="background-color: rgba(255, 255, 128, .5);">
-<a href="https://twitter.com/AymenBOUGARN"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/mohamed-aymen-bougarn-567480165/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="50" width="50" /></a>
-<a href="https://www.instagram.com/aymen_bougarn9/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="50" width="50" /></a>
+<h3 align="center"  style="background-color:rgba(255, 255, 128, .5);">
+<a href="https://twitter.com/AymenBOUGARN" ><img align="center" src="https://media.giphy.com/media/h2ejccV0wxvPnOch27/giphy.gif" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/mohamed-aymen-bougarn-567480165/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="50" width="50" /></a>
+<a href="https://www.instagram.com/aymen_bougarn9/"><img align="center" src="https://media.giphy.com/media/cJXlcXMGevIIETJAYk/giphy.gif" height="50" width="50" /></a>
  <!--https://dev.to/dephraiim--> 
- <a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"  alt="dephraiim" height="50" width="50" /></a>
-<a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dephraiim" height="50" width="50" /></a>
-</p>
+ <a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"  height="50" width="50" /></a>
+<a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"  height="50" width="50" /></a>
+<a href="#" target="_blank"><img align="center" src="https://media.giphy.com/media/XEy1qyv7GdLpmqHEPV/giphy.gif"  height="50" width="50" /></a>
+  
+  </h3>
 <br>
   
   

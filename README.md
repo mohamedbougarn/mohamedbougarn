@@ -19,7 +19,11 @@ I’m mohamed aymen BOUGARN, a self-motivated tech enthusiast and computer engin
 <br>
 <br>
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media0.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="100"><img src="https://media.giphy.com/media/TLaDluUpSbCKsSskMm/giphy.gif"><br><br>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://media1.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="100"><img src="https://media0.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="100">
+  <img src="https://media4.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200.webp" alt="firebase" width="100">
+  <img src="https://media0.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp"  alt="angular" width="100"><img src="https://media.giphy.com/media/TLaDluUpSbCKsSskMm/200.webp" alt="flutter" ><br><br>
   <br>
 </p>
 <br>

@@ -36,8 +36,8 @@ I’m mohamed aymen BOUGARN, a self-motivated tech enthusiast and computer engin
 <a href="https://www.linkedin.com/in/mohamed-aymen-bougarn-567480165/"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" height="50" width="50" /></a>
 <a href="https://www.instagram.com/aymen_bougarn9/"><img align="center" src="https://media.giphy.com/media/cJXlcXMGevIIETJAYk/giphy.gif" height="50" width="50" /></a>
  <!--https://dev.to/dephraiim--> 
- <a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"  height="50" width="50" /></a>
-<a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"  height="50" width="50" /></a>
+ <!--<a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"  height="50" width="50" /></a>
+<a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"  height="50" width="50" /></a>-->
 <a href="#" target="_blank"><img align="center" src="https://media.giphy.com/media/XEy1qyv7GdLpmqHEPV/giphy.gif"  height="50" width="50" /></a>
   
   </h3>

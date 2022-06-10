@@ -25,7 +25,7 @@ I’m mohamed aymen BOUGARN, a self-motivated tech enthusiast and computer scien
   <img src="https://media0.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="100">
   <img src="https://media4.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200.webp" alt="firebase" width="100"><br>
   <img src="https://media0.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp"  alt="angular" width="100"><br>
-  <img src="https://media.giphy.com/media/TLaDluUpSbCKsSskMm/200.webp" alt="flutter" ><br><br>
+  <img src="https://media.giphy.com/media/TLaDluUpSbCKsSskMm/200.webp" alt="flutter" ><br> <br>
   <br>
 </p>
 <br>

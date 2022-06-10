@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I’m mohamed aymen BOUGARN, a self-motivated tech enthusiast and computer engineering.
+I’m mohamed aymen BOUGARN, a self-motivated tech enthusiast and computer science engineering.
 </p>
 
 <h4 align="center">

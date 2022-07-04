@@ -2,10 +2,10 @@
 mohamedbougarn/mohamedbougarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I’m Mohamed Aymen BOUGARN</h2>
+         width="45" /> I’m Mohamed Aymen BOUGARN</h1>
 
 <p align="center">
 a self-motivated tech enthusiast and computer science engineering.

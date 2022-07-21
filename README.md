@@ -33,7 +33,7 @@ a self-motivated tech enthusiast and computer science engineering.
 </p>
 <br>
 
-### 📊 Statistiques Github 
+### 📊 
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mohamedbougarn&&theme=xcode)](https://github.com/mohamedbougarn)
 

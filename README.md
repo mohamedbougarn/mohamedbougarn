@@ -32,6 +32,11 @@ a self-motivated tech enthusiast and computer science engineering.
   <br>
 </p>
 <br>
+
+### 📊 Statistiques Github 
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mohamedbougarn&&theme=xcode)](https://github.com/mohamedbougarn)
+
 <br>
 <br>
 <h3 align="center"  style="background-color:rgba(255, 255, 128, .5);">

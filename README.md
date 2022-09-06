@@ -33,9 +33,14 @@ a self-motivated tech enthusiast and computer science engineering.
 </p>
 <br>
 
-### 📊 
+### 📊 activity graph 
 
  [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mohamedbougarn&&theme=xcode)](https://github.com/mohamedbougarn)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbougarn&hide=html,c,css&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedbougarn&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 
 <br>
 <br>

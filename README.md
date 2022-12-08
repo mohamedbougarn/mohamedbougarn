@@ -56,7 +56,3 @@ a self-motivated tech enthusiast and computer science engineering.
   
   
 </h3>
-<!--
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
-</h3>-->

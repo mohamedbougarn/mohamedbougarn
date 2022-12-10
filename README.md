@@ -41,7 +41,7 @@ a self-motivated tech enthusiast and computer science engineering.
          
          
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedbougarn&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedbougarn&show_icons=true&theme=radical)]
 
 
 

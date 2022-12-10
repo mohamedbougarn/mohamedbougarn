@@ -39,7 +39,7 @@ a self-motivated tech enthusiast and computer science engineering.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbougarn&hide=html,c,css,blade&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
          
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedbougarn&show_icons=true&theme=radical) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedbougarn&theme=radical&hide_border=true)](https://git.io/streak-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedbougarn&show_icons=true&theme=radical)  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedbougarn&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 

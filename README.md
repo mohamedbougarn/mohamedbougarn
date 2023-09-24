@@ -29,7 +29,7 @@ a self-motivated tech enthusiast and computer science engineering.
 </video>
 
 
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><br>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://giphy.com/embed/kHlrPbN9zaoOo7KXDo" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><br>
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://media1.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="100"><br>
   <img src="https://media0.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="100">

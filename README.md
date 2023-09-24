@@ -29,14 +29,16 @@ a self-motivated tech enthusiast and computer science engineering.
 </video>
 
 
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100"><!--angular logo-->
-  <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="bootstrap" width="100"><!--angular logo-->
-  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><br>
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <img src="https://media1.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="100"><br>
-  <img src="https://media0.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="100">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="javascript" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="python" width="100">
+  <img src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.webp" alt="bootstrap" width="100"><!--angular logo-->
+   <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp" alt="html" width="100">
+  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" alt="vu" width="100"><br>
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="github" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" alt="vscode" width="100">
+  <img src="https://media3.giphy.com/media/kHlrPbN9zaoOo7KXDo/200w.webp" alt="laravel" width="100">
+  <img src="https://media1.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" alt="node" width="100"><br>
+  <img src="https://media0.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" alt="php" width="100">
   <img src="https://media4.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200.webp" alt="firebase" width="100"><br>
   <img src="https://media0.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp"  alt="angular" width="100"><br>
   <img src="https://media.giphy.com/media/TLaDluUpSbCKsSskMm/200.webp" alt="flutter" ><br> <br>

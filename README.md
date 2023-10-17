@@ -12,7 +12,7 @@ a self-motivated tech enthusiast and computer science engineering.
 </p>
 
 <h4 align="center">
-💻 computer science engineering <a href="https://drive.google.com/file/d/1XDl4wOW12xjJdL1AJTcnaOunuDGCg7a0/view?usp=share_link">MY-CV-EN </a>| <a href="https://drive.google.com/file/d/1TbVT50VWbBPF9PVoOpoVACHMaMVKcLpF/view?usp=share_link">Mon-CV-FR </a>| 💬 connect <a href="https://twitter.com/AymenBOUGARN">twitter </a> | 📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbSFGrVVLdFGbjprrxhfsKNSmZkqtzwwpVdWzThLMnkfFGcPqwTLVXSHCrLSHDdzppKwhM"> a mail</a>
+💻 computer science engineering <a href="https://drive.google.com/file/d/1XDl4wOW12xjJdL1AJTcnaOunuDGCg7a0/view?usp=share_link">MY-CV-EN </a> | <a href="https://drive.google.com/file/d/1TbVT50VWbBPF9PVoOpoVACHMaMVKcLpF/view?usp=share_link">Mon-CV-FR </a> | 💬 connect <a href="https://twitter.com/AymenBOUGARN">twitter </a> | 📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbSFGrVVLdFGbjprrxhfsKNSmZkqtzwwpVdWzThLMnkfFGcPqwTLVXSHCrLSHDdzppKwhM"> a mail</a>
 </h4>
 <p  align="center">
 <!--<a href="https://akasrai.github.io/">https://akasrai.github.io</a>-->

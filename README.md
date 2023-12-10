@@ -54,19 +54,13 @@ a self-motivated tech enthusiast and computer science engineering.
 <br>
 
 
-<div style=" display: flex; justify-content:  space-between ;  align-items: center; ">
-   <div>
+
             
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedbougarn&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=mohamedbougarn&show_icons=true&theme=radical)  
-   </div>      
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedbougarn&show_icons=true&theme=radical)![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedbougarn&theme=radical&hide_border=true)](https://github-readme-stats.vercel.app/api?username=mohamedbougarn&show_icons=true&theme=radical) 
 
-<div>
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedbougarn&theme=radical&hide_border=true)](https://git.io/streak-stats)-->
          
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedbougarn&theme=radical&hide_border=true)](https://git.io/streak-stats)
-         
-</div>
 
-</div>
        
 
  

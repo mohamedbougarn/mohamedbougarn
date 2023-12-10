@@ -49,10 +49,28 @@ a self-motivated tech enthusiast and computer science engineering.
 ### 📊activity graph 
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedbougarn&theme=github-compact)]([https://github.com/mohamedbougarn/github-readme-activity-graph](https://github.com/mohamedbougarn))
 
-       
- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedbougarn&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=mohamedbougarn&show_icons=true&theme=radical)  
- 
+<br>
+<hr style="width=50%;">
+<br>
+
+
+<div style=" display: flex; justify-content:  space-between ;  align-items: center; ">
+   <div>
+            
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedbougarn&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=mohamedbougarn&show_icons=true&theme=radical)  
+   </div>      
+
+<div>
+         
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedbougarn&theme=radical&hide_border=true)](https://git.io/streak-stats)
+         
+</div>
+
+</div>
+       
+
+ 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbougarn&hide=html,c,css,blade&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 

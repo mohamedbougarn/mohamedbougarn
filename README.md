@@ -145,8 +145,8 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mohamedbougarn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
- 
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=mohamedbougarn&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 

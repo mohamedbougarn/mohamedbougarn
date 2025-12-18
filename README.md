@@ -136,7 +136,9 @@
   
   <br/>
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedbougarn&theme=github-compact&hide_border=true&custom_title=My%20Contribution%20Graph&area=true)
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedbougarn&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedbougarn&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
   
 </div>
 
@@ -146,7 +148,7 @@
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mohamedbougarn&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=mohamedbougarn&theme=radical&no-frame=true&row=2&column=4)
   
 </div>
 

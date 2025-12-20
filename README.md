@@ -106,7 +106,7 @@
 - **Admin Dashboard**: Comprehensive backend for inventory and sales management
 - **User Accounts**: Customer profiles with order history and wishlists
 - **Responsive Design**: Mobile-first approach for optimal shopping experience
-
+<!--
 **Modules:**
 - Customer Portal with personalized recommendations
 - Admin panel with sales analytics and reporting
@@ -123,7 +123,7 @@
 - **Rate Limiting**: Intelligent request throttling and caching
 - **Monitoring**: Real-time API performance and error tracking
 - **Webhook Support**: Event-driven architecture for real-time updates
-
+-->
 ---
 
 ## 📊 GitHub Analytics

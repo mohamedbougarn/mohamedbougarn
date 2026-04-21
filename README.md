@@ -12,7 +12,7 @@
 
 <p align="center">
   Passionate about building scalable web applications and innovative solutions with modern technologies.
-  Currently focused on full-stack development with expertise in Laravel, Angular, and cloud technologies.
+  Currently focused on full-stack development with expertise in .NET, Angular, and cloud technologies.
 </p>
 
 <div align="center">

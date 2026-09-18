@@ -197,6 +197,6 @@
   ![Visitors](https://komarev.com/ghpvc/?username=mohamedbougarn&color=blueviolet&style=flat-square)
   
   <p>💻 Crafting code with passion | 🚀 Building the future, one project at a time</p>
-  <p>⭐️ From <a href="https://github.com/mohamedbougarn/README.md">mohamedbougarn</a></p>
+  <p>⭐️ From <a href="https://github.com/mohamedbougarn/mohamedbougarn">mohamedbougarn</a></p>
   
 </div>
